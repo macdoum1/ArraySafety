@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = 'ArraySafety'
   s.version          = '1.0.0'
-  s.summary          = 'Provides safe read/write access to arrays'
+  s.summary          = 'Provides safe read/write access to swift arrays'
   s.description      = <<-DESC
-Provides safe read/write access to arrays to make your code more succinct
+Provides safe read/write access to swift arrays to make your code more succinct
                        DESC
 
   s.homepage         = 'https://github.com/macdoum1/ArraySafety'
