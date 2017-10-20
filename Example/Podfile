@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ArraySafety_Tests' do
+  pod 'ArraySafety', :path => '../'
+  
+  
+end

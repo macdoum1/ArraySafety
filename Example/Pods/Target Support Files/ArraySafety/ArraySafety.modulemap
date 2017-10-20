@@ -1,0 +1,6 @@
+framework module ArraySafety {
+  umbrella header "ArraySafety-umbrella.h"
+
+  export *
+  module * { export * }
+}
